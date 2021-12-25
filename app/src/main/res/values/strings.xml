@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WHproduct_with_recycle_view_with _ntent</string>
+
+    <string name="Iphone_12_64GB">Iphone 12 64GB</string>
+    <string name="Samsung_Galaxy_S21_Ultra">Samsung Galaxy S21 Ultra</string>
+    <string name="Xiaomi_11T_Pro">"Xiaomi 11T Pro"</string>
+    <string name="Huawei_Y6p">Huawei Y6p</string>
+    <string name="Samsung_Galaxy_Z_Flip3">Samsung Galaxy Z Flip3</string>
+    <string name="Iphone_13">Iphone 13</string>
+</resources>
